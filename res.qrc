@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bjcp-2015.json</file>
+    </qresource>
+</RCC>
